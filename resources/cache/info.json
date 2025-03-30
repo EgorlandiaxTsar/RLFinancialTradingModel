@@ -1,0 +1,1 @@
+{"config": {"env_size": 64, "timestamps": 64, "batch_size": 32, "n_epochs": 16, "n_memory_envs": 16, "episodes": 1024}, "runtimes": []}
